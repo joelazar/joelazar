@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**joelazar/joelazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```go
+me := joelazar{
+    pronouns: []string{"He", "Him"},
+    code: []string{"Go", "Python", "C++", "C", "Bash"},
+    askMeAbout: []string{"tech", "web dev", "devops", "mlops", "linux", "networking", "app dev"},
+    technologies: technologies{
+        backEnd: map[string]interface{}{
+            "go": []string{"chi", "fiber", "gorm"},
+            "python": []string{"flask", "fastapi"}
+        },
+        devOps: []string{"k8s", "openstack", "Docker🐳", "Azure", "Nginx", "GitlabCI"},
+        databases: []string{"postgresql", "redis", "mongo", "etcd", "sqlite"},
+        ai: []string{"pytorch", "tensorflow"},
+        linux: []string{"arch", "debian", "rhel"},
+        misc: []string{"matlab", "git", "ZeroMQ", "LaTeX", "Java"}
+    },
+    architecture: []string{"High Availability services", "Progressive web applications", "KISS"},
+    currentFocus: "Dive into Deep Learning",
+    funFact: "[sudo] password for joelazar: You can't come in. Our tiger has got flu"
+};
+```

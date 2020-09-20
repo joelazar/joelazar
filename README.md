@@ -23,6 +23,6 @@ me := joelazar{
 ```
 
 ## Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=joelazar&show_icons=true&theme=dracula" alt="joelazar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=joelazar&show_icons=true&theme=dracula&count_private=true" alt="joelazar" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&layout=compact&show_icons=true&theme=dracula" alt="joelazar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&layout=compact&show_icons=true&theme=dracula&count_private=true" alt="joelazar" /></p>

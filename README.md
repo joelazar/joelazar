@@ -26,5 +26,5 @@ me := joelazar{
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelazar&show_icons=true&theme=dracula&count_private=true" alt="joelazar" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&layout=compact&show_icons=true&theme=dracula&hide=matlab,css,html" alt="joelazar" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&layout=compact&show_icons=true&theme=dracula&hide=matlab,css,html" alt="joelazar" />
 </a>

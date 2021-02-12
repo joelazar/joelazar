@@ -12,7 +12,7 @@ me := joelazar{
         },
         devOps: []string{"k8s", "openstack", "Docker🐳", "Azure", "Nginx", "GitlabCI"},
         databases: []string{"postgresql", "redis", "mongo", "etcd", "sqlite"},
-        ai: []string{"pytorch", "tensorflow"},
+        ai: []string{"tensorflow", "keras", "numpy"},
         linux: []string{"arch", "debian", "rhel"},
         misc: []string{"matlab", "git", "ZeroMQ", "LaTeX", "Java"}
     },

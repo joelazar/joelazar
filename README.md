@@ -3,7 +3,7 @@
 ```go
 me := joelazar{
     pronouns: []string{"He", "Him"},
-    code: []string{"Go", "Python", "C++", "C", "JS", "Bash"},
+    code: []string{"Go", "Python", "C++", "C", "JS", "Bash", "Lua"},
     askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
     technologies: technologies{
         backEnd: map[string]interface{}{

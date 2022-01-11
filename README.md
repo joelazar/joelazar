@@ -3,22 +3,22 @@
 ```go
 me := joelazar{
     pronouns: []string{"He", "Him"},
-    code: []string{"Go", "Python", "C++", "C", "Bash"},
-    askMeAbout: []string{"tech", "web dev", "devops", "mlops", "linux", "networking", "app dev"},
+    code: []string{"Go", "Python", "C++", "C", "JS", "Bash"},
+    askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
     technologies: technologies{
         backEnd: map[string]interface{}{
-            "go": []string{"chi", "fiber", "gorm"},
-            "python": []string{"flask", "fastapi"}
+            "go": []string{"fiber", "chi", "gorm", "goquery", "colly"},
+            "python": []string{"flask", "fastapi", "sqlalchemy"}
         },
-        devOps: []string{"k8s", "openstack", "Docker🐳", "Azure", "Nginx", "GitlabCI"},
-        databases: []string{"postgresql", "redis", "mongo", "etcd", "sqlite"},
+        devOps: []string{"k8s", "openstack", "docker", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
+        databases: []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
         ai: []string{"tensorflow", "keras", "numpy"},
         linux: []string{"arch", "debian", "rhel"},
-        misc: []string{"matlab", "git", "ZeroMQ", "LaTeX", "Java"}
+        misc: []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"}
     },
-    architecture: []string{"High Availability services", "Progressive web applications", "KISS"},
-    currentFocus: "Dive into Deep Learning",
-    funFact: "[sudo] password for joelazar: You can't come in. Our tiger has got flu"
+    architecture: []string{"HA services", "Progressive web applications", "KISS"},
+    currentFocus: "Picking up some JS recently",
+    favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu"
 };
 ```
 

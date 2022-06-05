@@ -2,26 +2,26 @@
 
 ```go
 var me = joelazar{
-	pronouns:   []string{"He", "Him"},
-	code:       []string{"Go", "Python", "C++", "C", "JS", "Bash", "Lua"},
-	askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
-	technologies: technologies{
-		backEnd: map[string]interface{}{
-			"go":     []string{"fiber", "chi", "gorm", "goquery", "colly"},
-			"python": []string{"flask", "fastapi", "sqlalchemy"},
-			"js":     []string{"node"},
-		},
-		frontEnd: map[string]interface{}{
-			"js": []string{"remix", "react"},
-		},
-		devOps:    []string{"k8s", "docker", "gcp", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
-		databases: []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
-		ai:        []string{"tensorflow", "keras", "numpy"},
-		linux:     []string{"arch", "debian", "rhel"},
-		misc:      []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
-	},
-	currentFocus:        "Picking up some JS recently",
-	favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu",
+    pronouns:   []string{"He", "Him"},
+    code:       []string{"Go", "Python", "C++", "C", "JS", "Bash", "Lua"},
+    askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
+    technologies: technologies{
+        backEnd: map[string]interface{}{
+            "go":     []string{"fiber", "chi", "gorm", "goquery", "colly"},
+            "python": []string{"flask", "fastapi", "sqlalchemy"},
+            "js":     []string{"node"},
+        },
+        frontEnd: map[string]interface{}{
+            "js": []string{"remix", "react"},
+        },
+        devOps:    []string{"k8s", "docker", "gcp", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
+        databases: []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
+        ai:        []string{"tensorflow", "keras", "numpy"},
+        linux:     []string{"arch", "debian", "rhel"},
+        misc:      []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
+    },
+    currentFocus:        "Picking up some JS recently",
+    favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu",
 }
 ```
 

@@ -3,24 +3,23 @@
 ```go
 var me = joelazar{
     pronouns:   []string{"He", "Him"},
-    code:       []string{"Go", "Python", "C++", "C", "JS", "Bash", "Lua"},
+    code:       []string{"Go", "Python", "JavaScript", "TypeScript", "C++", "C", "Bash", "Lua"},
     askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
     technologies: technologies{
         backEnd: map[string]interface{}{
             "go":     []string{"fiber", "chi", "gorm", "goquery", "colly"},
             "python": []string{"flask", "fastapi", "sqlalchemy"},
-            "js":     []string{"node"},
+            "js":     []string{"node", "express", "prisma"},
         },
         frontEnd: map[string]interface{}{
-            "js": []string{"remix", "react"},
+            "js": []string{"remix", "react", "tailwind"},
         },
-        devOps:    []string{"k8s", "docker", "gcp", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
+        devOps:    []string{"k8s", "docker", "GCP", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
         databases: []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
         ai:        []string{"tensorflow", "keras", "numpy"},
         linux:     []string{"arch", "debian", "rhel"},
         misc:      []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
     },
-    currentFocus:        "Picking up some JS recently",
     favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu",
 }
 ```

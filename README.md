@@ -21,9 +21,10 @@ var me = joelazar{
         misc:         []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
     },
     favouriteVideos: map[string]string{
-        "Hamming, You and Your Research": "https://youtu.be/a1zDuOPkMSw",
+        "Hamming - You and Your Research": "https://youtu.be/a1zDuOPkMSw",
         "Asahi Linux - One chip, no docs, and lots of fun": "https://youtu.be/COlvP4hODpY",
-        "Dave Thomas - Agile is Dead": "https://youtu.be/a-BOSpxYJ9M"
+        "Dave Thomas - Agile is Dead": "https://youtu.be/a-BOSpxYJ9M",
+        "Edward Frenkel - Reality is a Paradox": "https://youtu.be/Osh0-J3T2nY"
     },
     favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu",
 }

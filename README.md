@@ -4,21 +4,26 @@
 var me = joelazar{
     pronouns:   []string{"He", "Him"},
     code:       []string{"Go", "Python", "JavaScript", "TypeScript", "C++", "C", "Bash", "Lua"},
-    askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
+    askMeAbout: []string{"tech", "webdev", "devops", "linux", "networking", "ai"},
     technologies: technologies{
         backEnd: map[string]interface{}{
             "go":     []string{"fiber", "chi", "gorm", "goquery", "colly"},
             "python": []string{"flask", "fastapi", "sqlalchemy"},
-            "js":     []string{"node", "express", "prisma"},
+            "js/ts":  []string{"node", "express", "prisma"},
         },
         frontEnd: map[string]interface{}{
-            "js": []string{"remix", "react", "tailwind"},
+            "js/ts":  []string{"remix", "react", "tailwind"},
         },
-        devOps:    []string{"k8s", "docker", "GCP", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
-        databases: []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
-        ai:        []string{"tensorflow", "keras", "numpy"},
-        linux:     []string{"arch", "debian", "rhel"},
-        misc:      []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
+        devOps:       []string{"k8s", "docker", "GCP", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
+        databases:    []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
+        ai:           []string{"tensorflow", "keras", "numpy"},
+        linux:        []string{"arch", "debian", "rhel"},
+        misc:         []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
+    },
+    favouriteVideos: map[string]string{
+        "Hamming, You and Your Research": "https://youtu.be/a1zDuOPkMSw",
+        "Asahi Linux - One chip, no docs, and lots of fun": "https://youtu.be/COlvP4hODpY",
+        "Dave Thomas - Agile is Dead": "https://youtu.be/a-BOSpxYJ9M"
     },
     favouriteSudoInsult: "[sudo] password for joelazar: You can't come in. Our tiger has got flu",
 }

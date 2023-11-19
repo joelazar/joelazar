@@ -36,6 +36,6 @@ var me = joelazar{
   <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&size_weight=0.2&count_weight=0.8&show_icons=true&theme=github_dark_dimmed&langs_count=10&hide=css,html&layout=compact" alt="joelazar's top languages stats" />
 
   <a href="https://wakatime.com/@joelazar">
-    <img width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=joelazar&theme=github_dark_dimmed" alt="joelazar's wakatime stats" />
+    <img width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=joelazar&theme=github_dark_dimmed&langs_count=10" alt="joelazar's wakatime stats" />
   </a>
 </div>

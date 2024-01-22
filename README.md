@@ -3,7 +3,7 @@
 ```go
 var me = joelazar{
     pronouns:   []string{"He", "Him"},
-    code:       []string{"Go", "Python", "JavaScript", "TypeScript", "C++", "C", "Bash", "Lua"},
+    code:       []string{"Go", "Python", "TypeScript", "JavaScript", "C++", "C", "SQL", "Bash", "Lua", "Java", "Matlab"},
     askMeAbout: []string{"tech", "webdev", "devops", "linux", "networking", "ai"},
     technologies: technologies{
         backEnd: map[string]interface{}{
@@ -15,10 +15,10 @@ var me = joelazar{
             "js/ts":  []string{"remix", "react", "tailwind"},
         },
         devOps:       []string{"k8s", "docker", "GCP", "azure", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
-        databases:    []string{"psql", "redis", "mongodb", "etcd", "sqlite"},
+        databases:    []string{"PostgreSQL", "redis", "mongodb", "etcd", "sqlite"},
         ai:           []string{"tensorflow", "keras", "numpy"},
-        linux:        []string{"arch", "debian", "rhel"},
-        misc:         []string{"matlab", "git", "ZeroMQ", "LaTeX", "Neovim"},
+        linux:        []string{"arch", "fedora", "debian", "rhel"},
+        misc:         []string{"git", "ZeroMQ", "LaTeX", "Neovim"},
     },
     favouriteVideos: map[string]string{
         "Hamming - You and Your Research": "https://youtu.be/a1zDuOPkMSw",

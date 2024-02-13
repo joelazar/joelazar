@@ -30,10 +30,10 @@ var me = joelazar{
 }
 ```
 
-<div align="center" >
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=joelazar&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="joelazar's github stats" />
+<div align="center">
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=joelazar&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="joelazar's github stats" />
 
-  <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&size_weight=0.2&count_weight=0.8&show_icons=true&theme=github_dark_dimmed&langs_count=10&hide=css,html&layout=compact" alt="joelazar's top languages stats" />
+  <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelazar&size_weight=0.2&count_weight=0.8&show_icons=true&theme=github_dark_dimmed&langs_count=10&hide=css,html&layout=compact&cache_seconds=86400" alt="joelazar's top languages stats" />
 
   <a href="https://wakatime.com/@joelazar">
     <img width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=joelazar&theme=github_dark_dimmed&langs_count=10" alt="joelazar's wakatime stats" />

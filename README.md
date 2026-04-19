@@ -13,8 +13,8 @@ Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugin
 
 | Project                                                                | What it is                                                                                                                    |        |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [**dotfiles**](https://github.com/joelazar/dotfiles)                   | My macOS dev environment — zsh, tmux, Ghostty, Homebrew bundle.                                                               | ⭐ 163 |
-| [**nvim-config**](https://github.com/joelazar/nvim-config)             | Modular Neovim setup built on lazy.nvim + blink.cmp.                                                                          | ⭐ 127 |
+| [**dotfiles**](https://github.com/joelazar/dotfiles)                   | My macOS dev environment, where I store all tools config for a bit short than a decade.                                       | ⭐ 163 |
+| [**nvim-config**](https://github.com/joelazar/nvim-config)             | My neovim config based on LazyVim.                                                                                            | ⭐ 127 |
 | [**blink-calc**](https://github.com/joelazar/blink-calc)               | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.                             | ⭐ 24  |
 | [**kagi-skills**](https://github.com/joelazar/kagi-skills)             | Skills for using the Kagi search APIs from coding agents.                                                                     | ⭐ 11  |
 | [**agent-review.nvim**](https://github.com/joelazar/agent-review.nvim) | Leave review comments on code in Neovim and export them as a prompt for your coding agent.                                    | 🆕     |
@@ -36,7 +36,7 @@ Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugin
 ---
 
 <details>
-<summary>🥚 <code>me.go</code></summary>
+<summary>🦫 <code>me.go</code></summary>
 
 ```go
 var me = joelazar{

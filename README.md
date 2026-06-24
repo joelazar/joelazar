@@ -13,10 +13,10 @@ Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugin
 
 | Project                                                                | What it is                                                                                                                    |             |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [**dotfiles**](https://github.com/joelazar/dotfiles)                   | My macOS dev env, where I store all tool and configuration settings for nearly a decade.                                      | ⭐&nbsp;163 |
-| [**nvim-config**](https://github.com/joelazar/nvim-config)             | My neovim config based on LazyVim.                                                                                            | ⭐&nbsp;127 |
-| [**blink-calc**](https://github.com/joelazar/blink-calc)               | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.                             | ⭐&nbsp;24  |
-| [**kagi-skills**](https://github.com/joelazar/kagi-skills)             | Skills for using the Kagi search APIs from coding agents.                                                                     | ⭐&nbsp;11  |
+| [**dotfiles**](https://github.com/joelazar/dotfiles)                   | My macOS dev env, where I store all tool and configuration settings for nearly a decade.                                      | ⭐&nbsp;166 |
+| [**nvim-config**](https://github.com/joelazar/nvim-config)             | My neovim config based on LazyVim.                                                                                            | ⭐&nbsp;129 |
+| [**blink-calc**](https://github.com/joelazar/blink-calc)               | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.                             | ⭐&nbsp;27  |
+| [**kagi-skills**](https://github.com/joelazar/kagi-skills)             | Skills for using the Kagi search APIs from coding agents.                                                                     | ⭐&nbsp;13  |
 | [**agent-review.nvim**](https://github.com/joelazar/agent-review.nvim) | Leave review comments on code in Neovim and export them as a prompt for your coding agent.                                    | 🆕          |
 | [**pi-nvim**](https://github.com/joelazar/pi-nvim)                     | Bridge between the [pi](https://github.com/mariozechner/pi) coding agent and Neovim — Snacks git picker, agent-review export. | 🆕          |
 

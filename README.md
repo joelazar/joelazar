@@ -2,8 +2,8 @@
 
 Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugins, Pi extensions and glue between LLMs and terminals.**
 
-- 🔭 **Currently building:** [`agent-review.nvim`](https://github.com/joelazar/agent-review.nvim), [`pi-nvim`](https://github.com/joelazar/pi-nvim), [`kagi-skills`](https://github.com/joelazar/kagi-skills)
-- 🌱 **Exploring:** coding agents, local LLMs
+- 🔭 **Currently building:** [`pi-tuicr`](https://github.com/joelazar/pi-tuicr), [`pi-extensions`](https://github.com/joelazar/pi-extensions), [`solve-this`](https://github.com/joelazar/solve-this)
+- 🌱 **Exploring:** coding agents, agent benchmarks, local LLMs
 - 🗣️ **Talk to me about:** Go, Neovim, devtools, DX, Linux, AI
 - 📫 **Reach me:** [me@joelazar.dev](mailto:me@joelazar.dev) · [joelazar.dev](https://joelazar.dev)
 
@@ -11,14 +11,16 @@ Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugin
 
 ### ✨ Projects worth a look
 
-| Project                                                                | What it is                                                                                                                    |             |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [**dotfiles**](https://github.com/joelazar/dotfiles)                   | My macOS dev env, where I store all tool and configuration settings for nearly a decade.                                      | ⭐&nbsp;166 |
-| [**nvim-config**](https://github.com/joelazar/nvim-config)             | My neovim config based on LazyVim.                                                                                            | ⭐&nbsp;129 |
-| [**blink-calc**](https://github.com/joelazar/blink-calc)               | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.                             | ⭐&nbsp;27  |
-| [**kagi-skills**](https://github.com/joelazar/kagi-skills)             | Skills for using the Kagi search APIs from coding agents.                                                                     | ⭐&nbsp;13  |
-| [**agent-review.nvim**](https://github.com/joelazar/agent-review.nvim) | Leave review comments on code in Neovim and export them as a prompt for your coding agent.                                    | 🆕          |
-| [**pi-nvim**](https://github.com/joelazar/pi-nvim)                     | Bridge between the [pi](https://github.com/mariozechner/pi) coding agent and Neovim — Snacks git picker, agent-review export. | 🆕          |
+| Project                                                        | What it is                                                                                           |             |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------- |
+| [**dotfiles**](https://github.com/joelazar/dotfiles)           | My macOS dev env, where I store all tool and configuration settings for nearly a decade.             | ⭐&nbsp;170 |
+| [**nvim-config**](https://github.com/joelazar/nvim-config)     | My neovim config based on LazyVim.                                                                   | ⭐&nbsp;131 |
+| [**blink-calc**](https://github.com/joelazar/blink-calc)       | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.    | ⭐&nbsp;29  |
+| [**pi-tuicr**](https://github.com/joelazar/pi-tuicr)           | Review pi's changes in [tuicr](https://github.com/agavra/tuicr), then send the comments back to pi.  | ⭐&nbsp;6   |
+| [**pi-copy-block**](https://github.com/joelazar/pi-copy-block) | Copy a code block or shell command out of pi's recent replies to the clipboard.                      | ⭐&nbsp;3   |
+| [**pi-lazygit**](https://github.com/joelazar/pi-lazygit)       | Open [lazygit](https://github.com/jesseduffield/lazygit) from inside pi without leaving the session. | ⭐&nbsp;2   |
+| [**pi-extensions**](https://github.com/joelazar/pi-extensions) | The [pi](https://pi.dev) extensions I use every day: commit, footer, sandbox, side chat and more.    | 🆕          |
+| [**solve-this**](https://github.com/joelazar/solve-this)       | A benchmark for coding agents: planted bugs in a Go API, scored against hidden tests.                | 🆕          |
 
 ---
 
@@ -53,13 +55,13 @@ var me = joelazar{
         frontEnd: map[string][]string{
             "js/ts": {"remix", "react", "tailwind"},
         },
-        aiStack:      []string{"pi", "claude-code", "codex", "gemini-cli", "skills", "local LLMs"},
+        aiStack:      []string{"pi", "claude-code", "codex", "herdr", "skills", "local LLMs"},
         neovim:       []string{"lazy.nvim", "blink.cmp", "snacks.nvim", "treesitter", "lsp"},
-        terminal:     []string{"ghostty", "tmux", "starship", "atuin", "television", "yazi", "lazygit"},
+        terminal:     []string{"ghostty", "herdr", "fish", "starship", "atuin", "television", "yazi", "lazygit", "tuicr"},
         devOps:       []string{"k8s", "docker", "GCP", "nginx", "Github Actions", "terraform"},
         databases:    []string{"PostgreSQL", "redis", "sqlite"},
         linux:        []string{"arch", "fedora", "debian"},
-        misc:         []string{"git", "chezmoi", "homebrew", "LaTeX"},
+        misc:         []string{"git", "chezmoi", "homebrew", "mise", "aerospace", "LaTeX"},
     },
     favouriteVideos: map[string]string{
         "Hamming - You and Your Research":                   "https://youtu.be/a1zDuOPkMSw",

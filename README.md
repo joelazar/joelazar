@@ -9,21 +9,6 @@ Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugin
 
 ---
 
-### ✨ Projects worth a look
-
-| Project                                                        | What it is                                                                                           |             |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------- |
-| [**dotfiles**](https://github.com/joelazar/dotfiles)           | My macOS dev env, where I store all tool and configuration settings for nearly a decade.             | ⭐&nbsp;173 |
-| [**nvim-config**](https://github.com/joelazar/nvim-config)     | My neovim config based on LazyVim.                                                                   | ⭐&nbsp;133 |
-| [**blink-calc**](https://github.com/joelazar/blink-calc)       | A [blink.cmp](https://github.com/Saghen/blink.cmp) source that evaluates math inline as you type.    | ⭐&nbsp;29  |
-| [**pi-tuicr**](https://github.com/joelazar/pi-tuicr)           | Review pi's changes in [tuicr](https://github.com/agavra/tuicr), then send the comments back to pi.  | ⭐&nbsp;8   |
-| [**pi-copy-block**](https://github.com/joelazar/pi-copy-block) | Copy a code block or shell command out of pi's recent replies to the clipboard.                      | ⭐&nbsp;3   |
-| [**pi-lazygit**](https://github.com/joelazar/pi-lazygit)       | Open [lazygit](https://github.com/jesseduffield/lazygit) from inside pi without leaving the session. | ⭐&nbsp;3   |
-| [**pi-extensions**](https://github.com/joelazar/pi-extensions) | The [pi](https://pi.dev) extensions I use every day: commit, footer, sandbox, side chat and more.    | ⭐&nbsp;1   |
-| [**solve-this**](https://github.com/joelazar/solve-this)       | A benchmark for coding agents: planted bugs in a Go API, scored against hidden tests.                | ⭐&nbsp;1   |
-
----
-
 <details>
 <summary>🦫 <code>me.go</code></summary>
 

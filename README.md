@@ -2,7 +2,6 @@
 
 Currently @onomondo in Copenhagen 🇩🇰. I mostly build **CLIs, Neovim plugins, Pi extensions and glue between LLMs and terminals.**
 
-- 🔭 **Currently building:** [`pi-tuicr`](https://github.com/joelazar/pi-tuicr), [`pi-extensions`](https://github.com/joelazar/pi-extensions), [`solve-this`](https://github.com/joelazar/solve-this)
 - 🌱 **Exploring:** coding agents, agent benchmarks, local LLMs
 - 🗣️ **Talk to me about:** Go, Neovim, devtools, DX, Linux, AI
 - 📫 **Reach me:** [me@joelazar.dev](mailto:me@joelazar.dev) · [joelazar.dev](https://joelazar.dev)
